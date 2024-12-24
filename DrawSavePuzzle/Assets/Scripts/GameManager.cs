@@ -27,6 +27,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
         AdsControl.Instance.ShowBannerAd();
         if(mLevel == null)
           LoadLevel();
@@ -40,6 +41,7 @@ public class GameManager : MonoBehaviour
     public void LoadLevel()
     {
         levelIndex = PlayerPrefs.GetInt("CurrentLevel");
+        //levelIndex = 1;
 
         if (levelIndex >= totalLevel)
         {

@@ -100,7 +100,7 @@ public class UIManager : MonoBehaviour
         AudioManager.instance.levelFailSfx.Play();
         yield return new WaitForSeconds(1.5f);
         failTick.gameObject.SetActive(false);
-        GameManager.instance.Replay();
+        //GameManager.instance.Replay();
     }
 
 }

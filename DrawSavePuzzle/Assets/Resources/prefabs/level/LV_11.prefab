@@ -883,7 +883,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 240490065}
   failTrigger: {fileID: 0}
-  levelQuestion: Great white shark!!!
+  levelQuestion: "\u5927\u767D\u9CA8\uFF01\uFF01\uFF01"
   hintObj: {fileID: 5127796032301463427}
 --- !u!1 &1790935140804100502
 GameObject:
@@ -1030,7 +1030,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &1790935142381162129
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1047,7 +1047,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!60 &1790935141793958950
 PolygonCollider2D:
   m_ObjectHideFlags: 0

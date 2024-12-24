@@ -200,7 +200,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 1715866364}
   failTrigger: {fileID: 0}
-  levelQuestion: Don't step on the banana peel
+  levelQuestion: "\u4E0D\u8981\u8E29\u9999\u8549\uFF01\uFF01\uFF01"
   hintObj: {fileID: 2244631189903146065}
 --- !u!1 &1790935140804100357
 GameObject:

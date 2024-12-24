@@ -1080,7 +1080,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 784916708}
   failTrigger: {fileID: 0}
-  levelQuestion: How to save him?
+  levelQuestion: "\u5982\u4F55\u62EF\u6551\u4ED6\u5462\uFF1F"
   hintObj: {fileID: 2946642492451427351}
 --- !u!1 &1790935140804101292
 GameObject:

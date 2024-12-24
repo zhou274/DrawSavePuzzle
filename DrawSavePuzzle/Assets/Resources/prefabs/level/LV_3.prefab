@@ -494,7 +494,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 1486665946}
   failTrigger: {fileID: 0}
-  levelQuestion: Help him land safely .
+  levelQuestion: "\u5E2E\u52A9\u4ED6\u5B89\u5168\u8FC7\u53BB"
   hintObj: {fileID: 2247952457897632681}
 --- !u!1 &1790935140804100784
 GameObject:

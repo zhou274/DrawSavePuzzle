@@ -1018,6 +1018,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1790935140804099612, guid: 39e762d58fc74807913ef5717205e90d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1790935140804100021, guid: 39e762d58fc74807913ef5717205e90d, type: 3}
       propertyPath: m_Name
       value: UIGame

@@ -1252,7 +1252,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 1347443844}
   failTrigger: {fileID: 0}
-  levelQuestion: Protect his heart
+  levelQuestion: "\u4FDD\u62A4\u4ED6\u7684\u5FC3\uFF01\uFF01\uFF01"
   hintObj: {fileID: 0}
 --- !u!1 &1790935140804101234
 GameObject:
@@ -1405,7 +1405,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &1790935142381162147
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1422,7 +1422,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!70 &1790935141961731688
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

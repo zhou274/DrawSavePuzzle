@@ -2188,7 +2188,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 732262927}
   failTrigger: {fileID: 0}
-  levelQuestion: 'How to save him? '
+  levelQuestion: "\u5982\u4F55\u62EF\u6551\u4ED6\u5462\uFF1F"
   hintObj: {fileID: 2438667325577972519}
 --- !u!1 &1790935140804100192
 GameObject:
@@ -2394,7 +2394,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1925861520
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -2411,7 +2411,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1790935140804100954
 GameObject:
   m_ObjectHideFlags: 0

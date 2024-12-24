@@ -88,7 +88,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &1790935142381162118
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -105,7 +105,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!58 &1790935141760404421
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -650,7 +651,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &1790935142381162119
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -667,7 +668,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1790935140804100586
 GameObject:
   m_ObjectHideFlags: 0
@@ -1552,7 +1554,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &1790935142381162137
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1569,7 +1571,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!68 &1790935141928177233
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -1663,7 +1666,7 @@ MonoBehaviour:
   spawnItemList: []
   mainPlayer: {fileID: 1448367219}
   failTrigger: {fileID: 0}
-  levelQuestion: He need your help !
+  levelQuestion: "\u4ED6\u9700\u8981\u4F60\u7684\u5E2E\u52A9\uFF01\uFF01\uFF01"
   hintObj: {fileID: 4473731424053482133}
 --- !u!1 &1790935140804101271
 GameObject:
