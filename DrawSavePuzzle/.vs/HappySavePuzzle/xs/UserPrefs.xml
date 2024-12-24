@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6CD6E480-FAA9-05EA-795F-0D647FD46C1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Setting.cs" Line="81" Column="38" />
+      <File FileName="Assets/Scripts/AdsControl.cs" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/UIGame.cs" Line="71" Column="50" />
+      <File FileName="Assets/Scripts/Shooting.cs" />
+      <File FileName="../../../Downloads/BurningMan2_ver1.6/BurningMan2/Assets/Scripts/HairDryer.cs" />
+      <File FileName="Assets/Scripts/Level.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="30" Column="44" />
+      <File FileName="Assets/Scripts/KillPlayer.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/FailTrigger.cs" />
+      <File FileName="Assets/Scripts/AddForcing.cs" />
+      <File FileName="Assets/Scripts/SpawnItems.cs" />
+      <File FileName="Assets/Scripts/AudioManager.cs" />
+      <File FileName="Assets/Scripts/UIWin.cs" Line="38" Column="41" />
+      <File FileName="Assets/Scripts/HomeManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="834f709e-0926-405f-b21a-61486409e17b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

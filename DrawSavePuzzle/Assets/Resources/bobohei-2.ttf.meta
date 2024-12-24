@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c983791ebe154f11a6e7874082f5e696
+timeCreated: 1665766931
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "bobohei-2"
+  fontNames:
+  - Kingnam Bobo
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
