@@ -70,7 +70,7 @@ public class UIGame : MonoBehaviour
 
     public void Skip()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("3171imcamc7a1mf2nl",
             (bol) => {
                 if (bol)
                 {

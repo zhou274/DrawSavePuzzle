@@ -46,38 +46,24 @@ public class UIManager : MonoBehaviour
 
     public void ShowWin()
     {
-        ShowInterstitialAd("3hai1a0e71d53t86r7",
+        ShowInterstitialAd("1kd3998f0gdo3cekb0",
        () => {
-           Debug.LogError("--插屏广告完成--");
-           var data = new JsonData
-           {
-               ["event_type"] = "game_addiction",
-               ["extra"] = "{product_name: '插屏广告完成'}",
-           };
-           StarkSDK.API.StarkSendToTAQ(data);
+           
        },
        (it, str) => {
            Debug.LogError("Error->" + str);
-           AndroidUIManager.ShowToast("广告加载异常，请稍后再试");
        });
         StartCoroutine(ShowWinIE());
     }
 
     public void ShowFail()
     {
-        ShowInterstitialAd("3hai1a0e71d53t86r7",
+        ShowInterstitialAd("1kd3998f0gdo3cekb0",
        () => {
-           Debug.LogError("--插屏广告完成--");
-           var data = new JsonData
-           {
-               ["event_type"] = "game_addiction",
-               ["extra"] = "{product_name: '插屏广告完成'}",
-           };
-           StarkSDK.API.StarkSendToTAQ(data);
+           
        },
        (it, str) => {
            Debug.LogError("Error->" + str);
-           AndroidUIManager.ShowToast("广告加载异常，请稍后再试");
        });
         StartCoroutine(ShowFailIE());
     }

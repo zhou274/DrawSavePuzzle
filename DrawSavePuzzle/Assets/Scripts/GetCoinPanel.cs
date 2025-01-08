@@ -12,11 +12,12 @@ public class GetCoinPanel : MonoBehaviour
     // Start is called before the first frame update
     public void GetCoin()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("3171imcamc7a1mf2nl",
             (bol) => {
                 if (bol)
                 {
                     Debug.Log("xxx");
+                    ClosePanel();
                     GameManager.instance.AddGems(100);
                     clickid = "";
                     getClickid();
