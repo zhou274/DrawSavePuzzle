@@ -1,43 +1,51 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\",
+  "WorkspaceRootPath": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\scripts\\getcoinpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\getcoinpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|d:\\unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\drawsavepuzzle\\assets\\scripts\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|d:\\unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\drawsavepuzzle\\assets\\scripts\\homemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\scripts\\uigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|d:\\unity\\\u6E90\u7801\u7D20\u6750\\drawsavepuzzle\\assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\uigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\scripts\\uiwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\getcoinpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\getcoinpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\uiwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\scripts\\homemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\scripts\\adscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\scripts\\adscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\adscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\assets\\draw2dplugin\\drawingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\assets\\draw2dplugin\\drawingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7084F6A8-CC85-F143-A063-6A81C26B63F4}|Assembly-CSharp.csproj|solutionrelative:assets\\draw2dplugin\\drawingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,63 +56,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InitAd.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\InitAd.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InitAd.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\InitAd.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InitAd.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:52:21.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ADManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T06:58:18.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:44:05.009Z",
               "EditorCaption": " [\u53EA\u8BFB]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:44:05.009Z",
+              "WhenOpened": "2024-12-24T07:40:09.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CebianlanManager.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\CebianlanManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T06:43:52.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UIGame.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\UIGame.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\UIGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIGame.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\UIGame.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\UIGame.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIGame.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwBsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T05:29:48.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "GetCoinPanel.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\GetCoinPanel.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\GetCoinPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GetCoinPanel.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\GetCoinPanel.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\GetCoinPanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\GetCoinPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,63 +147,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UIWin.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\UIWin.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\UIWin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIWin.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\UIWin.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\UIWin.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIWin.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAqwGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:30:08.242Z"
+              "WhenOpened": "2024-12-24T05:30:08.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAuwEEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswHkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:29:59.753Z"
+              "WhenOpened": "2024-12-24T05:29:59.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AdsControl.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\AdsControl.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\AdsControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AdsControl.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\AdsControl.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\AdsControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\AdsControl.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswCUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAABQwCUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:29:01.875Z"
+              "WhenOpened": "2024-12-24T05:29:01.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "HomeManager.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\HomeManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\HomeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HomeManager.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Scripts\\HomeManager.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Scripts\\HomeManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\HomeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:28:22.519Z"
+              "WhenOpened": "2024-12-24T05:28:22.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DrawingManager.cs",
-              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Draw2DPlugin\\DrawingManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Draw2DPlugin\\DrawingManager.cs",
               "RelativeDocumentMoniker": "Assets\\Draw2DPlugin\\DrawingManager.cs",
-              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\DrawSavePuzzle\\Assets\\Draw2DPlugin\\DrawingManager.cs",
+              "ToolTip": "D:\\Unity\\\u62EF\u6551\u706B\u67F4\u4EBA\\DrawSavePuzzle\\Assets\\Draw2DPlugin\\DrawingManager.cs",
               "RelativeToolTip": "Assets\\Draw2DPlugin\\DrawingManager.cs",
               "ViewState": "AgIAADwBAAAAAAAAAADgv0cBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:25:30.408Z"
+              "WhenOpened": "2024-12-24T05:25:30.408Z",
+              "EditorCaption": ""
             }
           ]
         }

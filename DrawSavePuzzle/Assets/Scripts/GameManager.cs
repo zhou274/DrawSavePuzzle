@@ -123,6 +123,7 @@ public class GameManager : MonoBehaviour
         AudioManager.instance.btnSfx.Play();
         levelIndex++;
         PlayerPrefs.SetInt("CurrentLevel", levelIndex);
+        
         Replay();
     }
 }
